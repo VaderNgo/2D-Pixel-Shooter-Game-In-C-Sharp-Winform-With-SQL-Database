@@ -1,4 +1,4 @@
-<h1 align="center" id="title">🔫🧟 2D Pixel Shooter Game In C# Winform With Database </h1>
+<h1 align="center" id="title">2D Pixel Shooter Game In C# Winform With Database </h1>
 <h2>🎮 About Project</h2>
 <p align="center">
 	<img src="Demo/image18.png" alt="project-image">
