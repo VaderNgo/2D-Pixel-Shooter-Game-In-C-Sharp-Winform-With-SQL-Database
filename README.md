@@ -1,7 +1,9 @@
 <h1 align="center" id="title">🔫🧟 2D Pixel Shooter Game In C# Winform With Database </h1>
 <h2>🎮 About Project</h2>
 <p align="center">
-  <img src="Demo/image18.png" alt="project-image">
+	<img src="Demo/image18.png" alt="project-image">
+	<p>Besides using Winforms to create business or statistical applications, we can also create a game with it. This is a project for entertainment as well as to help me better understand C# Winform.</p>
+ 	<p>All assets used in this project do not belong to me but it's free so feel free to use this project even commercially. I would really appreciate it if you credited me 😃 .</p>
 </p>
 
 <h2>🚀 Demo</h2>
@@ -12,12 +14,6 @@
 <p align ="middle">
   <img src = "Demo/image21.gif" width = 600 height =300>
 </p>
-
-<h2>🔧 Feature</h2>
-
-
-
-
 <h2>💻 Built with</h2>
 <h3>Programming Language</h3>
 <p align ="middle">
@@ -31,15 +27,22 @@
 </p>
 
 <h2>👀 Installation</h2>
-<h3>Step 1: </h3></h3>
+<h3>Step 1: Clone this repo</h3></h3>
 
 ```bash
-123
+https://github.com/VaderNgo/2D-Pixel-Shooter-Game-In-C-Sharp-Winform-With-SQL-Database.git
 ```
-<h3>Step 2:</h3>
+<h3>Step 2: Install SQL Server Management Studio(SSMS)</h3>
 
+[Here](https://www.nobledesktop.com/how-to-install-sql-server-management-studio) is how to install it
 
-<h3>Step 3: </h3>
+**NOTE: You need to install this tool or something else to be able to execute the SQL file**
+
+<h3>Step 3: Excute SQL file to create game database </h3>
+
+Excute this [SQL File](SQLFile/GameDatabase.sql)
+
+<h3>Step 4: Start Game and Enjoy It</h3>
 
 <h2>License</h2>
 
