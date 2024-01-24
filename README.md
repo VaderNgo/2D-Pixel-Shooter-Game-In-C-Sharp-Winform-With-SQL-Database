@@ -40,7 +40,7 @@ https://github.com/VaderNgo/2D-Pixel-Shooter-Game-In-C-Sharp-Winform-With-SQL-Da
 
 <h3>Step 3: Excute SQL file to create game database </h3>
 
-Excute this [SQL File](SQLFile/GameDatabase.sql)
+Excute this [SQL File](https://github.com/VaderNgo/2D-Pixel-Shooter-Game-In-C-Sharp-Winform-With-SQL-Database/blob/master/SQL%20File/GameDatabase.sql)
 
 <h3>Step 4: Start Game and Enjoy It</h3>
 
