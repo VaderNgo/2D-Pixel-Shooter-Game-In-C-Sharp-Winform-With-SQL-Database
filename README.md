@@ -79,7 +79,8 @@ Open Solution -> Tools -> NuGet Package Managger -> Manage Nuget Packages for So
 	<li>Zombie - Close range attack, no special ability.</li>
 	<li>Wizard Skeleton - Long range attack, can keep its distance to attack the player</li>
 </ul>
-
+<h3>Load Play</h3>
+<p>If you lose but you want to play again that game to finish it. Go to LoadPlay in main menu, connect your database , find your gameplay you want, select it and play again.</p>
 
 <h2>License</h2>
 
