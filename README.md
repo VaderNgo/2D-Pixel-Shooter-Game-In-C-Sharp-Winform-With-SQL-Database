@@ -52,6 +52,10 @@ https://github.com/VaderNgo/2D-Pixel-Shooter-Game-In-C-Sharp-Winform-With-SQL-Da
 
 Excute this [SQL File](https://github.com/VaderNgo/2D-Pixel-Shooter-Game-In-C-Sharp-Winform-With-SQL-Database/blob/master/SQL%20File/GameDatabase.sql)
 
+<h3>Step 3.1 (In case the SQLClient error): Add System.Data.SqlClient 4.8.5 Nugget </h3>
+
+Open Solution -> Tools -> NuGet Package Managger -> Manage Nuget Packages for Solution -> Find System.Data.SqlClient 4.8.5 and install it.
+
 <h3>Step 4: Start Game and Enjoy It</h3>
 
 <h2>License</h2>
