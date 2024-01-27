@@ -58,6 +58,29 @@ Open Solution -> Tools -> NuGet Package Managger -> Manage Nuget Packages for So
 
 <h3>Step 4: Start Game and Enjoy It</h3>
 
+<h2>❔How to play</h2>
+
+<h3>Keyboard</h3>
+<ul>
+	<li>Use arrow key to control player.</li>
+	<li>"A" to attack (close range or long range depend on your current weapon).</li>
+	<li>"U" to open Weapon Upgrade Window.</li>
+	<li>"I" to open Inventory Window.</li>
+	<li>"S" to open Shop Window.</li>
+</ul>
+<h3>Game Mode</h3>
+<ul>
+	<li>Easy</li>
+	<li>Medium</li>
+	<li>Hard</li>
+</ul>
+<h3>Enemy</h3>
+<ul>
+	<li>Zombie - Close range attack, no special ability.</li>
+	<li>Wizard Skeleton - Long range attack, can keep its distance to attack the player</li>
+</ul>
+
+
 <h2>License</h2>
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
