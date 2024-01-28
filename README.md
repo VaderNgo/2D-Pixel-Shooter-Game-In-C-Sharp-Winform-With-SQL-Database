@@ -4,7 +4,7 @@
 
 <div align="center">
 	
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NidYXY06Bcw/0.jpg)](https://www.youtube.com/watch?v=NidYXY06Bcw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/waA-353vOKo/0.jpg)](https://www.youtube.com/watch?v=waA-353vOKo)
 	
 </div>
 
