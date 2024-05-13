@@ -1,12 +1,5 @@
 <h1 align="center" id="title">2D Pixel Shooter Game In C# Winform With Database </h1>
 
- <h2>🎥 Youtube Overview</h2>
-
-<div align="center">
-	
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/waA-353vOKo/0.jpg)](https://www.youtube.com/watch?v=waA-353vOKo)
-	
-</div>
 
 	
 <h2>🎮 About Project</h2>
